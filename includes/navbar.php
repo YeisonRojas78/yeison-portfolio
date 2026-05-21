@@ -2,46 +2,69 @@
 
     <div class="container">
 
-        <a class="navbar-brand fw-bold"
+        <a class="navbar-brand"
            href="#">
 
-            YeisonDev
+            <span class="logo-icon">
+                &lt;/&gt;
+            </span>
+
+            Yeison<span>Dev</span>
 
         </a>
 
         <button class="navbar-toggler"
                 type="button"
                 data-bs-toggle="collapse"
-                data-bs-target="#navbar">
+                data-bs-target="#navbarNav">
 
             <span class="navbar-toggler-icon"></span>
 
         </button>
 
         <div class="collapse navbar-collapse"
-             id="navbar">
+             id="navbarNav">
 
-            <ul class="navbar-nav ms-auto">
+            <ul class="navbar-nav mx-auto">
 
                 <li class="nav-item">
-                    <a class="nav-link" href="#">
+                    <a class="nav-link active" href="#">
                         Inicio
                     </a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="#projects">
+                    <a class="nav-link" href="#">
+                        Sobre mí
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="#">
                         Proyectos
                     </a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="#contact">
+                    <a class="nav-link" href="#">
+                        Tecnologías
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="#">
                         Contacto
                     </a>
                 </li>
 
             </ul>
+
+            <a href="#"
+               class="btn-cv">
+
+                Descargar CV
+
+            </a>
 
         </div>
 

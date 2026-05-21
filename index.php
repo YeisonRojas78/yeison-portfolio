@@ -1,58 +1,68 @@
 <?php include './includes/header.php'; ?>
 <?php include './includes/navbar.php'; ?>
 
-<main>
+<section class="hero">
 
-    
-    <section class="hero">
+    <!-- FONDO -->
+    <div class="bg-circle circle-1"></div>
+    <div class="bg-circle circle-2"></div>
 
-        <div class="container">
+    <div class="container h-100">
 
-            <div class="row align-items-center min-vh-100">
+        <div class="row hero-row">
 
-                <div class="col-lg-6">
+            <!-- TEXTO -->
+            <div class="col-lg-6 hero-content">
 
-                    <span class="badge-custom">
-                        Desarrollador Back-End
-                    </span>
+                <span class="hero-badge">
+                    Desarrollador Full Stack
+                </span>
 
-                    <h1 class="hero-title">
-                        Hola, soy
-                        <span>Yeison Rojas</span>
-                    </h1>
+                <h1 class="hero-title">
+                    Hola, soy <br>
+                    <span>Yeison Rojas</span>
+                </h1>
 
-                    <p class="hero-description">
+                <p class="hero-description">
 
-                        Me especializo en el desarrollo de aplicativos webs modernos,
-                        sistemas administrativos, APIs-REST usando PHP, node.js y mas tecnologias.
+                    Desarrollo aplicaciones web modernas
+                    y escalables, especializado en Backend,
+                    APIs REST y soluciones completas de software.
 
-                    </p>
+                </p>
 
-                    <div class="hero-buttons">
+                <div class="hero-buttons">
 
-                        <a href="#projects"
-                           class="btn btn-primary btn-custom">
+                    <a href="#"
+                       class="btn-primary-custom">
 
-                            Ver proyectos
+                        Ver proyectos
 
-                        </a>
+                    </a>
 
-                        <a href="#contact"
-                           class="btn btn-outline-light btn-custom">
+                    <a href="#"
+                       class="btn-outline-custom">
 
-                            Contacto
+                        Contactarme
 
-                        </a>
-
-                    </div>
+                    </a>
 
                 </div>
 
-                <div class="col-lg-6 text-center">
+            </div>
 
-                    <img src="./assets/img/profile.png"
+            <!-- IMAGEN -->
+            <div class="col-lg-6 hero-image-wrapper">
+
+                <div class="hero-image-container">
+
+                    <!-- Glow -->
+                    <div class="image-glow"></div>
+
+                    <!-- Imagen -->
+                    <img src="./assets/img/MiFotoPerfil.png"
                          class="hero-image"
-                         alt="Perfil">
+                         alt="Yeison">
 
                 </div>
 
@@ -60,8 +70,7 @@
 
         </div>
 
-    </section>
+    </div>
 
-</main>
-
+</section>
 <?php include './includes/footer.php'; ?>
