@@ -1,4 +1,4 @@
-<section class="home-skills">
+<section class="home-skills" id="skills">
 
     <div class="container">
 

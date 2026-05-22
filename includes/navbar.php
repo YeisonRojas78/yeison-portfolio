@@ -12,7 +12,7 @@
 
         </a>
 
-        <!-- BOTON MOBILE -->
+        <!-- BOTON MOVIL -->
 
         <button
             class="navbar-toggler"
@@ -20,11 +20,11 @@
             data-bs-toggle="collapse"
             data-bs-target="#navbarNav">
 
-            <i class="fas fa-bars"></i>
+            <span class="navbar-toggler-icon"></span>
 
         </button>
 
-        <!-- LINKS -->
+        <!-- MENU -->
 
         <div
             class="collapse navbar-collapse"
@@ -32,21 +32,13 @@
 
             <ul class="navbar-nav mx-auto">
 
-                <li class="nav-item">
-
-                    <a class="nav-link active"
-                       href="index.php">
-
-                        Inicio
-
-                    </a>
-
-                </li>
+                <!-- SOBRE MI -->
 
                 <li class="nav-item">
 
-                    <a class="nav-link"
-                       href="about.php">
+                    <a
+                        class="nav-link"
+                        href="about.php">
 
                         Sobre mí
 
@@ -54,10 +46,13 @@
 
                 </li>
 
+                <!-- PROYECTOS -->
+
                 <li class="nav-item">
 
-                    <a class="nav-link"
-                       href="projects.php">
+                    <a
+                        class="nav-link"
+                        href="index.php#projects">
 
                         Proyectos
 
@@ -65,10 +60,13 @@
 
                 </li>
 
+                <!-- TECNOLOGIAS -->
+
                 <li class="nav-item">
 
-                    <a class="nav-link"
-                       href="skills.php">
+                    <a
+                        class="nav-link"
+                        href="index.php#skills">
 
                         Tecnologías
 
@@ -76,21 +74,14 @@
 
                 </li>
 
-                <li class="nav-item">
-
-                    <a class="nav-link"
-                       href="certificates.php">
-
-                        Certificaciones
-
-                    </a>
-
-                </li>
+                <!-- CONTACTO -->
 
                 <li class="nav-item">
 
-                    <a class="nav-link"
-                       href="contact.php">
+                    <a
+                        class="nav-link"
+                        href="https://wa.me/573017142827"
+                        target="_blank">
 
                         Contacto
 
@@ -100,10 +91,10 @@
 
             </ul>
 
-            <!-- BOTON CV -->
+            <!-- DESCARGAR CV -->
 
             <a
-                href="./assets/docs/CV.pdf"
+                href="assets/docs/Hoja_de_Vida_Yeison_Rojas.docx"
                 class="btn-cv"
                 download>
 

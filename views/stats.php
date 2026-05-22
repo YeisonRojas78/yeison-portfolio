@@ -6,7 +6,7 @@
 
             <div class="stat-card">
 
-                <h2>5+</h2>
+                <h2>2+</h2>
 
                 <p>
                     Proyectos desarrollados
@@ -16,7 +16,7 @@
 
             <div class="stat-card">
 
-                <h2>Full Stack</h2>
+                <h2>BackEnd</h2>
 
                 <p>
                     Desarrollo web moderno

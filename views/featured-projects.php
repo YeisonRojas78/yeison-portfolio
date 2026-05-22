@@ -1,4 +1,4 @@
-<section class="featured-projects">
+<section class="featured-projects" id="projects">
 
     <div class="container">
         <br>
@@ -55,7 +55,7 @@
                             Sensores para recibir informacion en tiempo real
 
                         </p>
-
+                        <br>
                         <!-- TECNOLOGIAS -->
 
                         <div class="project-tech">
@@ -72,10 +72,9 @@
                         <div class="project-buttons">
 
                             <a href="https://github.com/cesarabs54/proyecto_piscicola.git"
-                                class="project-btn"
-                                target="_blank"
-                                rel="noopener noreferrer">
+                                class="project-btn">
 
+                                <i class="fab fa-github"></i>
                                 GitHub
 
                             </a>
@@ -126,7 +125,7 @@
                             administrativos y de atención al aprendiz.
 
                         </p>
-
+                        <br>
                         <div class="project-tech">
 
                             <span>PHP</span>
@@ -139,10 +138,9 @@
                         <div class="hero-buttons">
 
                             <a href="https://github.com/CRBerlin23/proyecto_apoyos_bienestar.git"
-                                class="project-btn"
-                                target="_blank"
-                                rel="noopener noreferrer">
+                                class="project-btn">
 
+                                <i class="fab fa-github"></i>
                                 GitHub
 
                             </a>
@@ -183,6 +181,7 @@
                             dinámicas gamificadas y retos visuales.
 
                         </p>
+                        <br>
 
                         <div class="project-tech">
 
@@ -195,9 +194,11 @@
 
                         <div class="project-buttons">
 
-                            <a href="#"
+                           
+                            <a href="https://github.com/YeisonRojas78/Juegos_De_Oraciones.git"
                                 class="project-btn">
 
+                                <i class="fab fa-github"></i>
                                 GitHub
 
                             </a>

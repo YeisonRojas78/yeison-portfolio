@@ -15,7 +15,7 @@
 
                 <span class="hero-badge">
 
-                    Desarrollador Full Stack
+                    Analista y Desarrollador de Software
 
                 </span>
 
@@ -41,7 +41,7 @@
                 <div class="hero-buttons">
 
                     <a
-                        href="projects.php"
+                        href="index.php#projects"
                         class="btn-primary-custom">
 
                         Ver proyectos
@@ -49,7 +49,7 @@
                     </a>
 
                     <a
-                        href="contact.php"
+                         href="https://wa.me/573017142827"
                         class="btn-outline-custom">
 
                         Contactarme
@@ -62,15 +62,15 @@
 
                 <div class="social-icons">
 
-                    <a href="#">
+                    <a href="https://github.com/YeisonRojas78">
                         <i class="fab fa-github"></i>
                     </a>
 
-                    <a href="#">
+                    <a href="https://linkedin.com/in/yeison-rojas-6307a3339/">
                         <i class="fab fa-linkedin"></i>
                     </a>
 
-                    <a href="#">
+                    <a href="mailto:sonyeirojas@gmail.com">
                         <i class="fas fa-envelope"></i>
                     </a>
 

@@ -10,6 +10,6 @@
 
 <?php include './views/featured-projects.php'; ?>
 
-<?php include './views/cta.php'; ?>
+
 
 <?php include './includes/footer.php'; ?>
